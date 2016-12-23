@@ -1,4 +1,4 @@
-**Tip Calculator** is a tip calculator application for iOS.
+#**Tip Calculator** is a tip calculator application for iOS.
 
 By: **Jason Wong**
 
